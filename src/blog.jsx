@@ -1,5 +1,5 @@
 import React from 'react';
-import './Blog.css';
+import './blog.css';
 import image from './assets/kalam.jpg';
 
 function Blog() {
